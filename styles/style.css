@@ -1,0 +1,32 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family:'Noto Serif JP', serif; /* this should be the rest of the output you got from Google fonts */
+  background-color:  #E0B16A;
+}
+h1 {
+  margin: 0;
+  font-size: 60px;
+  text-align: center;
+  color: ##73430C;
+  text-shadow: 0px 4px 1px #B68B2F;
+}
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 0 20px 20px 20px;
+  border: 2px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p, li ,a{
+  font-size: 13px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
